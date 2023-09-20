@@ -7,3 +7,5 @@ package hu.bme.mit.spaceship;
 public enum FiringMode {
   SINGLE, ALL
 }
+
+//remelem nem lesz conflict
